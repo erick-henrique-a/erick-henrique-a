@@ -2,7 +2,7 @@
 ##  Olá, meu nome é Erick!
 
  
-🎓 Sou um estudante de ciência de computação no 8° semestre e desenvolvedor full stack com experiencia de projetos web com Java Spring e React/NodeJS.
+🎓 Sou Mestrando em Ciência da Computação no IME-USP e desenvolvedor full stack com experiencia de projetos web com Java Spring e React/NodeJS.
 
   
 
